@@ -1,0 +1,23 @@
+Main Green
+#29983e
+
+Dark Green
+#1e7a32
+
+Secondary Green
+#37b34a
+
+Light Green
+#b3ffb3
+
+Nav Light Green
+#ccffcc
+
+Text Muted Green
+#81cc76
+
+Yellow Accent
+#ffca4f 
+
+Secondary Yellow Accent
+#ffc02d
